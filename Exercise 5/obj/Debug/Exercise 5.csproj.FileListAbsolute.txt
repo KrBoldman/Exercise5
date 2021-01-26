@@ -1,0 +1,14 @@
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\bin\Debug\Exercise 5.exe.config
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\bin\Debug\Exercise 5.exe
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\bin\Debug\Exercise 5.pdb
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise 5.csprojAssemblyReference.cache
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise_5.Properties.Resources.resources
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise 5.csproj.GenerateResource.cache
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise 5.csproj.CoreCompileInputs.cache
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise 5.exe
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise 5.pdb
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise_5.PlayfairCipher.resources
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\bin\Debug\Exercise 5.exe.manifest
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\bin\Debug\Exercise 5.application
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise 5.exe.manifest
+A:\Documents\School\Semester 4\C#\Exercise 5\Exercise 5\obj\Debug\Exercise 5.application
